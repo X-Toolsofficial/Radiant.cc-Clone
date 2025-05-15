@@ -26,15 +26,11 @@ Check it out and feel free to contribute or customize!
 
 ---
 
-## Live Demo
-
-[Insert your live demo URL here]
-
----
-
 ## Screenshots
 
-![Hero Section](https://radiant.cc/img/homepage1_5.png)
+![Hero Section](https://ibb.co/pj2XW5Sc)
+![Cat](https://ibb.co/wNRrym4P)
+![Products](https://ibb.co/vvDkBLGf)
 
 ---
 
