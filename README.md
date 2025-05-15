@@ -29,8 +29,8 @@ Check it out and feel free to contribute or customize!
 ## Screenshots
 
 ![Hero Section](https://i.ibb.co/m5Jzvg3k/image-2025-05-15-105235735.png)
-![Cat](https://ibb.co/wNRrym4P)
-![Products](https://ibb.co/vvDkBLGf)
+![Cat](https://i.ibb.co/ynXB0jqZ/image-2025-05-15-105259428.png)
+![Products](https://i.ibb.co/KzmWGVkB/image-2025-05-15-105321388.png)
 
 ---
 
